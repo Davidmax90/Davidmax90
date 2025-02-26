@@ -1,3 +1,4 @@
+![banner](banner.png)
 # 👨🏽‍💻 Olá, Sou David Marques 👋
 ### **`💻 Desenvolvedor em Desenvolvimento`**
 *💬 Com uma ampla trajetória profissional, estou em transição para a área de tecnologia, com conhecimentos em Python, HTML, CSS, JavaScript, Git/GitHub e metodologias ágeis (Kanban, Trello). Tenho experiência em análise de dados, desenvolvimento,  ERP’s e CRM. Estou em busca de oportunidades para aplicar e expandir minhas habilidades em programação. Destaco-me pela capacidade de analisar e criar estratégias para solucionar problemas gerando resultados, penso como dono do negócio e não me limito as minhas funções, mas busco superar as expectativas. Se você procura um profissional comprometido, com potencial de crescimento contínuo, que tem responsabilidade e disciplina, eu estou pronto para enfrentar os desafios do seu projeto com total dedicação e lealdade.*
@@ -46,3 +47,5 @@ If you are looking for a committed professional with continuous growth potential
 
 ### ✍️ Citação aleatória de desenvolvedor/Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![myfigured](myfiured.jpg)
