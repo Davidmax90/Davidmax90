@@ -31,9 +31,8 @@
 
 ## 📊 GitHub Estatísticas/ Stats :
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMax90&theme=chartreuse-dark&hide_border=true" width="32%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=DavidMax90&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidMax90&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="29%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=DavidMax90&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidMax90&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="39%" />
 </p>
 
 ![snake](github-user-contribution.svg)
@@ -41,7 +40,7 @@
 <table>
   <tr>
     <td align="center">
-      <b> 🚀 Projetos em Destaque></b>
+      <b> 🚀 Projetos em Destaque </b>
     </td>
   </tr>
   <tr>
@@ -56,7 +55,7 @@
 
 ---
 
-### ✍️ Citação aleatória de desenvolvedor/Random Dev Quote :
+### ✍️ Citação aleatória dev/ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <img width="200" src="myfiured.jpg" alt="Material Bread logo">
