@@ -1,15 +1,13 @@
 ![banner](banner.png)
 # 👨🏽‍💻 Olá, Sou David Marques 👋
 ### **`💻 Desenvolvedor em Desenvolvimento`**
-*💬 Com uma ampla trajetória profissional, estou em transição para a área de tecnologia, com conhecimentos em Python, HTML, CSS, JavaScript, Git/GitHub e metodologias ágeis (Kanban, Trello). Tenho experiência em análise de dados, desenvolvimento,  ERP’s e CRM. Estou em busca de oportunidades para aplicar e expandir minhas habilidades em programação. Destaco-me pela capacidade de analisar e criar estratégias para solucionar problemas gerando resultados, penso como dono do negócio e não me limito as minhas funções, mas busco superar as expectativas. Se você procura um profissional comprometido, com potencial de crescimento contínuo, que tem responsabilidade e disciplina, eu estou pronto para enfrentar os desafios do seu projeto com total dedicação e lealdade.*
+*💬 Com uma ampla trajetória profissional no ramo comercial, estou em transição para me tornar um programador, com conhecimentos em Python, HTML, CSS, JavaScript, Git/GitHub e metodologias ágeis como Kanban, Trello. Tenho experiência em análise de dados, desenvolvimento web. Destaco-me pela capacidade de analisar e criar estratégias para solucionar problemas gerando resultados eficazes, penso como dono do negócio e não me limito as minhas funções, eu busco superar as expectativas. Se você procura um profissional comprometido, com potencial de crescimento contínuo, que tem responsabilidade e disciplina, eu estou pronto para enfrentar os desafios do seu projeto com total dedicação e lealdade.*
 ##
 <br>
 
 ## 👨🏽‍💻 Who is David Marques?
 ### **`👋 Hi, i'm A Developer in Progress`**
-*💬 With a broad professional background, I am transitioning into the technology field with knowledge in Python, HTML, CSS, JavaScript, Git/GitHub, and agile methodologies (Kanban, Trello). I have experience in data analysis, development, ERPs, and CRMs.
-I am seeking opportunities to apply and expand my programming skills. I stand out for my ability to analyze and create strategies to solve problems and generate results. I think like a business owner and do not limit myself to my assigned functions—I strive to exceed expectations.
-If you are looking for a committed professional with continuous growth potential, responsibility, and discipline, I am ready to take on your project’s challenges with full dedication and loyalty.*
+*💬 With a broad professional background in the commercial sector, I am transitioning to become a programmer, with knowledge in Python, HTML, CSS, JavaScript, Git/GitHub, and agile methodologies such as Kanban and Trello. I have experience in data analysis and web development. I stand out for my ability to analyze and create strategies to solve problems, delivering effective results. I think like a business owner and do not limit myself to my assigned tasks—I strive to exceed expectations. If you are looking for a committed professional with continuous growth potential, responsibility, and discipline, I am ready to take on the challenges of your project with full dedication and loyalty.*
 <br>
 
 # 🌐 Redes/ Socials :
